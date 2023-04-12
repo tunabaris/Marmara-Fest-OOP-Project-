@@ -1,0 +1,5 @@
+Name: ads
+Surname: dsa
+Student No: ads
+Department: das
+Amount of Ticket: 2
